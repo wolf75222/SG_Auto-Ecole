@@ -1,8 +1,5 @@
 # Projet: Système de Gestion pour Auto-École
 
-## Description
-
-Ce projet universitaire vise à développer une base de données pour une auto-école fictive afin de gérer élèves, moniteurs, plannings, cours et parc de véhicules. Les étudiants devront définir l'organisation de l'auto-école, créer et remplir la base de données en utilisant des outils comme MySQL et Looping, et répondre à des questions spécifiques à travers des requêtes SQL. Un compte rendu détaillé et des scripts SQL sont attendus comme livrables.
 
 ## Table des Matières
 1. [Description du Projet](#description-du-projet)
@@ -14,9 +11,14 @@ Ce projet universitaire vise à développer une base de données pour une auto-�
 4. [Travail Attendu](#travail-attendu)
 5. [Indications et Précisions](#indications-et-précisions)
 6. [Conseils pour le Développement](#conseils-pour-le-développement)
+7. [Tableau des Étapes du Projet](#tableau-des-étapes-du-projet)
+8. [Travail Attendu (Détails)](#travail-attendu-détails)
+9. [Indications et Précisions (Détails)](#indications-et-précisions-détails)
+10. [Sujet](#sujet)
+
 
 ## Description du Projet
-Ce projet, issu du TP INFO0304 pour l'année universitaire 2023-2024, a pour but de développer une base de données pour une auto-école fictive. Les responsables de cette matière sont Béatrice BEAUJET et Thibault BERNARD. L’objectif est de gérer divers aspects de l'auto-école, tels que les élèves, les moniteurs, les plannings, les cours, et le parc de véhicules.
+Ce projet universitaire vise à développer une base de données pour une auto-école fictive afin de gérer élèves, moniteurs, plannings, cours et parc de véhicules. Les étudiants devront définir l'organisation de l'auto-école, créer et remplir la base de données en utilisant des outils comme MySQL et Looping, et répondre à des questions spécifiques à travers des requêtes SQL. Un compte rendu détaillé et des scripts SQL sont attendus comme livrables.
 
 ## Étapes du Travail
 ### Description et Organisation
@@ -53,3 +55,37 @@ Ce projet, issu du TP INFO0304 pour l'année universitaire 2023-2024, a pour but
 - **Phase 2 :** Concentrez-vous sur la définition du sous-domaine et les éléments à inclure dans la base de données initiale.
 - **Phase 3 :** Utilisez les outils de modélisation pour créer un modèle conceptuel de données et développez la BD en utilisant MySQL. Testez les requêtes SQL pour vérifier si la BD répond aux exigences.
  
+## Tableau des Étapes du Projet
+
+| Étape | Description | Responsable | Statut |
+|-------|-------------|-------------|--------|
+| 0 | Définition du cahier des charges | Romain | En cours |
+| 1 | Nommer l’auto-école et décrire son organisation générale | Moussa, Romain | En cours |
+| 2 | Décrire la procédure d’obtention d’un permis de conduire et les différents permis | Romain | À faire |
+| 3 | Décrire l’organisation d’une leçon de code et de conduite | Romain | À faire |
+| 4 | Décrire la gestion des véhicules : entretien, mise au rebut, vente |  Romain | À faire |
+| 5 | Définir précisément le sous-domaine à modéliser pour la BD | Moussa | À faire |
+| 6 | Comment stocker dans la BD les informations utiles pour la gestion des réparations et l’entretien des véhicules | Moussa | À faire |
+| 7 | Comment gérer dans la BD les plannings des moniteurs et élèves, et le dossier de l’élève | Moussa | À faire |
+| 8 | Créer le MCD | Romain, Moussa | À faire |
+| 9 | Créer la base de données | Romain, Moussa | À faire |
+| 10 | Remplir la base de données | Moussa | À faire |
+| 11 | S'assurer que la BD puisse répondre à des questions spécifiques (plannings, coût total du permis, etc. -> Test) | Moussa | À faire |
+| 12 | Rédaction du compte rendu en LaTeX | Romain, Moussa | À faire |
+
+___
+
+## Travail Attendu (Détails)
+- BD sous MySQL avec un compte rendu PDF portant votre(vos) nom(s) de famille.
+- Le script SQL de création et de remplissage de la BD.
+- Un fichier texte contenant au minimum 5 requêtes SQL, dont une requête imbriquée, une requête de calcul, une requête planning, une requête soustraction relationnelle et une requête division relationnelle.
+
+## Indications et Précisions (Détails)
+- Commencer la rédaction du compte rendu et la modélisation le plus tôt possible.
+- Préparer les questions avant les séances de T.D.
+- Un exemple de dossier est disponible sur Moodle.
+
+## Sujet
+**Sujet :** Développer une base de données pour une auto-école fictive pour gérer les élèves, les moniteurs, les plannings, les cours et le parc de véhicules.
+
+
